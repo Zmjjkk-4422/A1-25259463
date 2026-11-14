@@ -1,0 +1,13 @@
+# Compiled output
+/out/
+*.class
+
+# VS Code (optional)
+/.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Local-only notes (not part of the English submission)
+/docs/中文讲解.md
