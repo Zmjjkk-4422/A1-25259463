@@ -120,11 +120,17 @@ public class AssignmentOne {
         System.out.println(manager.cancelByPatientPhone("0499999999"));
         System.out.println();
 
-        // --- Cancelling a real appointment, then showing the updated list ---
+        // --- Cancelling a real appointment by professional ID and time ---
         printHeader("After cancelling GP 101 at 08:00");
         System.out.println(manager.cancelByProfessionalAndTime("101", 480));
         System.out.println();
-        printHeader("Appointments remaining after cancellation");
+
+        // --- Cancelling a real appointment by patient phone number ---
+        printHeader("After cancelling patient phone 0423456789");
+        System.out.println(manager.cancelByPatientPhone("0423456789"));
+        System.out.println();
+
+        printHeader("Appointments remaining after cancellations");
         printList(manager.getAllAppointments());
     }
 
