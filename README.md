@@ -38,7 +38,7 @@ Or open the folder in VS Code with the Java extension pack and run
 ## Submission checklist
 
 - [x] Java project with all source files (`src/`)
-- [ ] GitHub repository link added to the submission comments
+- [x] GitHub repository: https://github.com/Zmjjkk-4422/A1-25259463
 - [ ] WakaTime report / screenshots attached as `A1-25259463-WakaTime.png/jpg/pdf`
 - [ ] Short demonstration video link (SCU OneDrive share) added to the comments
 - [ ] GenAI declaration statement included in the submission comments

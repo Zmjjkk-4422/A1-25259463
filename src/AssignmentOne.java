@@ -13,7 +13,7 @@ import java.util.List;
  * <ul>
  *     <li>Name: YuHan Wu (Han)</li>
  *     <li>SCU account: 25259463</li>
- *     <li>GitHub repository link: &lt;paste repository link here after pushing&gt;</li>
+ *     <li>GitHub repository link: https://github.com/Zmjjkk-4422/A1-25259463</li>
  *     <li>Demonstration video link (SCU OneDrive share): &lt;paste video link here&gt;</li>
  * </ul>
  *
