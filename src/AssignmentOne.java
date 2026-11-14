@@ -17,13 +17,10 @@ import java.util.List;
  *     <li>Demonstration video link (SCU OneDrive share): &lt;paste video link here&gt;</li>
  * </ul>
  *
- * <p>GenAI declaration: I acknowledge that I have used Generative AI tools to
- * complete this assessment in accordance with the conditions outlined in the
- * Assessment Brief. I used Doubao to assist with organising the class
- * structure, checking Java syntax and reviewing the OOP design; the design
- * decisions and the ability to explain the code are my own.
- * (Confirm or replace this statement with the "did not use GenAI" template
- * before submission.)</p>
+ * <p>GenAI declaration: I acknowledge that I have used Generative AI tools
+ * to complete this assessment in accordance with the conditions outlined in
+ * the Assessment Brief. I used Doubao to assist with organising the class
+ * structure, checking Java syntax, and guiding the OOP design.</p>
  */
 public class AssignmentOne {
 
